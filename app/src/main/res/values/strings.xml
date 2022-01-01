@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FireBase Testing</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="vendor_book">Vendor Book</string>
+    <string name="name">Name</string>
+    <string name="delete">Delete</string>
+    <string name="age">Age</string>
+    <string name="save_data">Save Data</string>
+    <string name="show_data">Show Data</string>
+    <string name="home_firestore_data">Home FireStore Data</string>
+</resources>
